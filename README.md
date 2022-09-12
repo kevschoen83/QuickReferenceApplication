@@ -1,6 +1,6 @@
 # QuickReferenceApplication
 
-Author/Design/Coder:  Kevin Schoen
+Author/Designer/Coder:  Kevin Schoen
 ---
 This is my Java Quick Reference Application.  The purpose of this application is to assist me in my journey to learn
 and become a better software programmer/engineer by providing me with an all-encompasing resource where I can
